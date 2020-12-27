@@ -1,0 +1,9 @@
+row = [ Nom_Logiciel, Nom_de_léditeur, Num_de_version, Code_de_conformite, Code_envoi_fichier,
+Num_de_version_norme, Point_depot, Type_envoi, Siren_de_emetteur, Nic_emetteur, Nom_raison_sociale,
+adresse_1, Code_postal_1, Localité_1, Code_civilité, Code_domaine_dintervention, 
+Adresse_mail_contact_emetteur, Adresse_teleph, Nature_decl, Type_decl, Num_fraction_decl,
+Num_ordre_decl, Date_mois_decl, Date_constitution_fich, Champ_decl, Identifiant, SIREN,
+NIC_2, Code_APEN_2, adresse_2, Code_postal_2, Localité_2, Zone_2, num_2, date_1, date_2,
+NIC_3, Code_APEN_3, adresse_3, Code_postal_3, Localité_3, Zone_3, Compl_3, int_1 ,str_1,
+int_2, int_3, str_2, P5, int_4, int_5, int_6, str_3, int_7, int_8, str_4, P05, int_9,
+int_10, int_11, str_5, str_6, FR, float_1, date_5, date_6 , Sexe_sal , Date_naissance_sal ]
